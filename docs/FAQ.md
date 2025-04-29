@@ -11,7 +11,7 @@ Since February 2024 the most outdated content has been removed or updated but if
 
 ### I'm new, what should I read first?
 
-*   [The Official Eclipse FAQs](FAQ/The_Official_Eclipse_FAQs.md")
+*   [The Official Eclipse FAQs](FAQ/The_Official_Eclipse_FAQs.md)
 
 Installation, Startup and Runtime
 ---------------------------------
