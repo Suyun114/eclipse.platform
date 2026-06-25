@@ -437,6 +437,14 @@ public final class Platform {
 	public static final String ARCH_RISCV64 = "riscv64";//$NON-NLS-1$
 
 	/**
+	 * Constant string (value {@code loongarch64}) indicating the platform is running on
+	 * an LoongArch 64bit-based architecture.
+	 *
+	 * @since 3.38
+	 */
+	public static final String ARCH_LOONGARCH64 = "loongarch64";//$NON-NLS-1$
+
+	/**
 	 * Constant string (value {@code amd64}) indicating the platform is running on
 	 * an AMD64-based architecture.
 	 *
